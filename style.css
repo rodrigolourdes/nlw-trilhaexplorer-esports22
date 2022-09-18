@@ -113,9 +113,9 @@ svg {
   filter: invert();
 }
 
-/* Media Queries */ 
+/* Media Query */ 
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
 
   body {
     max-width: 100%;
