@@ -113,6 +113,26 @@ svg {
   filter: invert();
 }
 
+/* Media Queries */ 
+
+@media (max-width: 800px) {
+
+  body {
+    max-width: 100%;
+  }
+  section {
+    min-width: 100%;
+
+  }
+  ul  {
+    display: flex;
+    overflow: scroll;
+  } 
+  
+}
+
+
+
 /* animation*/
 
 header div {
