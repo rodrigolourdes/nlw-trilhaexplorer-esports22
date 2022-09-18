@@ -115,7 +115,7 @@ svg {
 
 /* Media Queries */ 
 
-@media (max-width: 800px) {
+@media (max-width: 500px) {
 
   body {
     max-width: 100%;
